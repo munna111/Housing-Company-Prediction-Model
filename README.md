@@ -1,4 +1,4 @@
-# House-Price-Prediction-Project-for-a-US-based-housing-company
+# House Price Prediction - US based housing company
 
 This project contains two parts. Part-I involves programming(to be submitted in a Jupyter Notebook), and Part-II includes subjective questions (to be submitted in a PDF file). 
 
